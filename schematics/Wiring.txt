@@ -1,0 +1,13 @@
+Joystic -> RAMPS 1.4
+    Red (Vcc) -> AUX(4) 5V pin
+    Orange (X-AXON)-> T0 A13
+    Brown (y-AXON) -> T2 A15
+    Green (GND) ->  AUC(4) GND
+    Blue (switch)-> AUX(4) D32
+
+Enstops -> RAMPS 1.4
+
+    EndstpX -> D3 - (-) 
+    EndstpZ -> D2 - (-)
+    Home -> D14 - (-)
+    EndstpY -> D15 - (-)
